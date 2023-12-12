@@ -54,7 +54,11 @@ console.log(myMonth)
 // Arrays
 let numbers = [1,2,3,4,5];
 console.log(numbers)
+<link src="./images/Screenshot 2023-12-12 at 1.54.03 PM.png">
+<link src="./images/Screenshot 2023-12-12 at 2.21.59 PM.png">
+<link src="./images/Screenshot 2023-12-12 at 2.11.21 PM.png">
 
-![Alt text](<Screenshot 2023-12-12 at 1.54.03 PM.png>)
-![Alt text](<Screenshot 2023-12-12 at 2.11.21 PM.png>)
-![Alt text](<Screenshot 2023-12-12 at 2.21.59 PM.png>)# Final-Project-9112
+(<Screenshot 2023-12-12 at 1.54.03 PM.png>)
+(<Screenshot 2023-12-12 at 2.11.21 PM.png>)
+(<Screenshot 2023-12-12 at 2.21.59 PM.png>)
+# Final-Project-9112
